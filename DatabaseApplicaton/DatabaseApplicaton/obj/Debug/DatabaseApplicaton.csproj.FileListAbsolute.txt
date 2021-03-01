@@ -1,0 +1,10 @@
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\bin\Debug\DatabaseApplicaton.exe.config
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\bin\Debug\DatabaseApplicaton.exe
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\bin\Debug\DatabaseApplicaton.pdb
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\obj\Debug\DatabaseApplicaton.csprojAssemblyReference.cache
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\obj\Debug\DatabaseApplicaton.Form1.resources
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\obj\Debug\DatabaseApplicaton.Properties.Resources.resources
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\obj\Debug\DatabaseApplicaton.csproj.GenerateResource.cache
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\obj\Debug\DatabaseApplicaton.csproj.CoreCompileInputs.cache
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\obj\Debug\DatabaseApplicaton.exe
+G:\Projects\DB_Homework 1\DatabaseApplicaton\DatabaseApplicaton\obj\Debug\DatabaseApplicaton.pdb
